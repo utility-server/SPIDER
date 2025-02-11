@@ -45,5 +45,5 @@ Here is the updated table where **0** is replaced with **Free**, and the cost is
 | **Extra Cost / Hit** | *             | $0.000375 (USD)    | $0.00025 (USD)  | $0.0002 (USD)| $0.000175 (USD)    | $0.000125 (USD)   |
 | **Extra Add-on** | Not Allowed             | *    | *  | *| *    | *   |
 
-* Extra Ad-on: $1 / 2,000 Renders + 20,000 Hits
+* Extra Ad-on: $1 (USD) / 2,000 Renders + 20,000 Hits
 * Extra rendering and extra hits are not allowed; accounts will be blocked in case of overage.
